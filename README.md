@@ -12,6 +12,7 @@ This is a Python implementation of the classic Tic-Tac-Toe game. It allows two p
 <li>**Random player start**: The starting player is randomly determined at the beginning of the game.</li>
 <li>**Clear interface**: The grid and game status are displayed in a clean and easy-to-understand format.</li>
 </ul>
+
 # Usage
 <ul>
 <li>Make sure you have Python installed on your machine.</li>
