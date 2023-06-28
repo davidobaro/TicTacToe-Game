@@ -24,3 +24,37 @@ python tictactoe.py
 
 <li>Follow the on-screen instructions to play the game. Enter the number representing the box you want to play on when prompted.</li>
 </ul>
+
+# Preview
+On running the program, the interface should look like this:
+
+```
+
+  _______ _          _______             _______
+ |__   __(_)        |__   __|           |__   __|
+    | |   _  ___ ______| | __ _  ___ ______| | ___   ___
+    | |  | |/ __|______| |/ _` |/ __|______| |/ _ \ / _ \
+    | |  | | (__       | | (_| | (__       | | (_) |  __/
+    |_|  |_|\___|      |_|\__,_|\___|      |_|\___/ \___|      by David Obaro
+
+-------------------------------------------------------------
+                        1 | 2 | 3
+                        — — — — —
+                        4 | 5 | 6
+                        — — — — —
+                        7 | 8 | 9
+-------------------------------------------------------------
+X begins...
+round 1
+
+             __   __
+             \ \ / /
+              \ V /
+               > <  's turn to play
+              / . \
+             /_/ \_\
+
+---------------------------------------------------------------
+Type the number representing the box you want to play on:
+
+```
