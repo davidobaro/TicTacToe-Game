@@ -3,11 +3,11 @@ A Python program for a two-player Tic-Tac-Toe game on a 5x5 grid. Players take t
 
 # Features
 <ul>
-<li> **Interactive gameplay**: Players take turns marking X and O symbols on the grid.</li>
-<li> **Win condition**: The program checks for three symbols in a row, column, or diagonal to determine the winner.</li>
-<li> **Input validation**: Only valid moves are accepted, and players are prompted to re-enter if they make an invalid move.</li>
-<li> **Random player start**: The starting player is randomly determined at the beginning of the game.</li>
-<li> **Clear interface**: The grid and game status are displayed in a clean and easy-to-understand format.</li>
+<li> Interactive gameplay: Players take turns marking X and O symbols on the grid.</li>
+<li> Win condition: The program checks for three symbols in a row, column, or diagonal to determine the winner.</li>
+<li> Input validation: Only valid moves are accepted, and players are prompted to re-enter if they make an invalid move.</li>
+<li> Random player start: The starting player is randomly determined at the beginning of the game.</li>
+<li> Clear interface: The grid and game status are displayed in a clean and easy-to-understand format.</li>
 </ul>
 
 # Usage
