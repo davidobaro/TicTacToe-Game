@@ -1,9 +1,6 @@
 # TicTacToe-Game
 A Python program for a two-player Tic-Tac-Toe game on a 5x5 grid. Players take turns marking X and O symbols, and the program determines the winner or declares a draw. Enjoy the game and test your strategic skills!
 
-# Tic-Tac-Toe Game
-This is a Python implementation of the classic Tic-Tac-Toe game. It allows two players to play the game on a 5x5 grid and determines the winner or declares a draw.
-
 # Features
 <ul>
 <li> **Interactive gameplay**: Players take turns marking X and O symbols on the grid.</li>
